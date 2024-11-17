@@ -1,1 +1,1 @@
-bucket_name = "dev-sa-east-1-dkz-pipeline"
+bucket_name = "dev-us-east-1-dkz-pipeline"
